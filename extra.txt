@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 the file in the main branch
+=======
